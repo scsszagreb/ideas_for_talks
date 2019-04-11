@@ -1,8 +1,8 @@
-# Ideas for talks on our meetup
+# Ideas for talks
 
 * centering 101
   * vertical and horizontal centering in any situation
-* @import vs <link />
+* @import vs link
 * flexbox vs grid
 * pseudo elements
   * what, how and why
@@ -15,7 +15,7 @@
 * pure CSS vs JS (pros and cons)
 * to Bootstrap or not to Bootstrap, that is a question
 * CSS filters
-* scss workflow (optimization, minification, broswersync, +postCSS)
+* scss workflow (optimization, minification, browsersync, +postCSS)
 * CSS and React Native
 
 ### Feel free to contribute to this list (fork, commit, push, create PR)
