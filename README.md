@@ -17,5 +17,6 @@
 * CSS filters
 * scss workflow (optimization, minification, browsersync, +postCSS)
 * CSS and React Native
+* CSS in emails 
 
 ### Feel free to contribute to this list (fork, commit, push, create PR)
