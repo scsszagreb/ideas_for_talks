@@ -3,7 +3,7 @@
 ## Topics we did not have
 * Css functions: attr(), calc(), translate()
 * Tricks with box shadows
-* Click event in CSS and its sidde effects
+* Click event in CSS and its side effects
 * Show us what you got! Did you code something interesting with CSS?
 * How do you organize your media queries?
 * How to use CSS counters and what for?
