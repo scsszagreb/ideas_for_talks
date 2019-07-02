@@ -29,8 +29,8 @@
 * bem vs. smacss vs acss vs. oocss: https://www.meetup.com/S_CSS_Zagreb/events/262442215/
 * PostCSS: https://www.meetup.com/S_CSS_Zagreb/events/260918535/
 * accessibility: https://www.meetup.com/S_CSS_Zagreb/events/260918535/
-* pseudo classes: https://www.meetup.com/S_CSS_Zagreb/events/260470749/
-* custom properties: https://www.meetup.com/S_CSS_Zagreb/events/260470749/
+* pseudo classes: https://www.meetup.com/S_CSS_Zagreb/events/259088646/
+* custom properties: https://www.meetup.com/S_CSS_Zagreb/events/259088646/
 * grid: https://www.meetup.com/S_CSS_Zagreb/events/257860075/
 * svgs: https://www.meetup.com/S_CSS_Zagreb/events/260470749/
 
