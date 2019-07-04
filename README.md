@@ -8,6 +8,7 @@
 * How do you organize your media queries?
 * How to use CSS counters and what for?
 * How to use @document, @page and @support
+* Interesting css/scss libraries: https://github.com/troxler/awesome-css-frameworks/blob/master/readme.md
 * Centering 101
   * vertical and horizontal centering in any situation
 * @import vs link
